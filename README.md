@@ -14,7 +14,7 @@ see also http://www.opensource.org/licenses/mit-license.php
 
 
 #LW 126  
-Das Interfacelabor soll ein Ort zum Arbeiten und Experimentieren sein. Aufgrund der Tatsache, dass dort Hardware im Wert von mehreren Zehntausend Euro zur Verfügung steht müssen wir jedoch den Zugang beschränken. __Es wird keine freien Zugang geben__. Durch die Teilnahme am Seminar 11EG-B und 14W4D-IL erlangt ihr die Berechtigung projektbasiert dort zu Arbeiten. Des weiteren finden unterschiedliche Kurse in LW 126 statt.  
+Das Interfacelabor soll ein Ort zum Arbeiten und Experimentieren sein. Aufgrund der Tatsache, dass dort Hardware im Wert von mehreren Zehntausend Euro zur Verfügung steht müssen wir jedoch den Zugang beschränken. __Es wird keine freien Zugang geben__. Durch die Teilnahme am Seminar 14W4D-IL erlangt ihr die Berechtigung projektbasiert dort zu Arbeiten. Des weiteren finden unterschiedliche Kurse in LW 126 statt.  
 
 Hinzu kommt die Sprechstunde am Dienstag von 10 bis 12:30 und 13:00 bis 16:00 Uhr in LW 126. Da gibt es die Möglichkeit sich Hilfe zu Soft- und Hardware Projekten zu holen. Andere Termine gibt es nur auf Vereinbarung.  
 
