@@ -1,0 +1,21 @@
+[submodule "digitalio"]
+	path = digitalio
+	url = git://github.com/fabiantheblind/digitalio.git
+[submodule "analogio"]
+	path = analogio
+	url = git://github.com/fabiantheblind/analogio.git
+[submodule "particle_system"]
+	path = particle_system
+	url = git://github.com/fabiantheblind/particle_system.git
+[submodule "touch_particle_system"]
+	path = touch_particle_system
+	url = git://github.com/fabiantheblind/touch_particle_system.git
+[submodule "simple_particle_system"]
+	path = simple_particle_system
+	url = git://github.com/fabiantheblind/simple_particle_system.git
+[submodule "c2c"]
+	path = c2c
+	url = git://github.com/fabiantheblind/c2c.git
+[submodule "LW126-reading-list"]
+	path = LW126-reading-list
+	url = git://github.com/fabiantheblind/LW126-reading-list.git
