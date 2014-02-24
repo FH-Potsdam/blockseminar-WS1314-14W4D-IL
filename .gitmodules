@@ -19,3 +19,6 @@
 [submodule "LW126-reading-list"]
 	path = LW126-reading-list
 	url = git://github.com/fabiantheblind/LW126-reading-list.git
+[submodule "github-setup-tools"]
+	path = github-setup-tools
+	url = git@github.com:FH-Potsdam/github-setup-tools.git
